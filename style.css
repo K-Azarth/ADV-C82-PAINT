@@ -1,0 +1,41 @@
+#bodyBackgorund {
+    background-image: url("https://i.pinimg.com/originals/49/8d/cc/498dcc8b7041d578597d887d1f0ae6ad.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+    text-align: center; 
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+      font-family: Georgia;
+      text-align: center;
+  }
+  h2 {
+    color:#0D47A;
+    font-size: 12px; 
+    font-family: Comic Sans Ms;
+    text-align: center; 
+  }
+  #Canvas
+  {
+      border-width: 10px;
+      background-color: #ECEFF1; 
+      border-style: ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: 7; 
+    color: #263238;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
